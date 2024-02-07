@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 Languages and Tools
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,postgres,sequelize,react,vite)](https://skillicons.dev)
+[(https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,postgres,sequelize,react,vite)](https://skillicons.dev)
 <br><br>
 
 ### ✉️ How to reach me
