@@ -4,12 +4,12 @@
 
 ### 👨🏻‍💻 Languages and Tools
 <br>
-![(https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,postgres,sequelize,react,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,mongodb,postgres,sequelize,react,vite)](https://skillicons.dev)
 <br><br>
 
 ### ✉️ How to reach me
 <br>
-[![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gregoriotsr/)  &nbsp; [![](https://skillicons.dev/icons?i=discord)](discordapp.com/users/310267269923995650)  &nbsp; [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/friskg_/)  &nbsp; <a href="mailto:gralfonsotr@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" />
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gregoriotsr/)  &nbsp; [![Discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/310267269923995650)  &nbsp; [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/friskg_/)  &nbsp; <a href="mailto:gralfonsotr@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" />
 <br><br>
 
 [![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GREGORIOtsr&theme=synthwave&show_icon=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
