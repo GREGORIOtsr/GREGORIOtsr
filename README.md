@@ -1,5 +1,6 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=30&duration=3000&pause=1000&color=FFB3C6&center=true&multiline=true&random=false&height=80&width=435&lines=Hi!+I'm+Gregorio+%E2%98%81;Welcome+to+my+profile!)](https://git.io/typing-svg)
-</div>
 
 ### 👨🏻‍💻 Languages and Tools
 
@@ -12,3 +13,5 @@
 <br><br>
 
 [![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GREGORIOtsr&theme=synthwave&show_icon=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
+<div/>
