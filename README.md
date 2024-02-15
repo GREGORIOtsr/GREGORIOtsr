@@ -14,4 +14,6 @@
 
 [![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GREGORIOtsr&theme=synthwave&show_icon=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
+![Codewars](https://github.r2v.ch/codewars?user=GREGORIOtsr&stroke=%23BB432C)
+
 <div/>
