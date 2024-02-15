@@ -12,8 +12,8 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gregoriotsr/)  &nbsp; [![Discord](https://skillicons.dev/icons?i=discord)](discordapp.com/users/310267269923995650)  &nbsp; [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/friskg_/)  &nbsp; <a href="mailto:gralfonsotr@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" />
 <br><br>
 
-[![Gregorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=GREGORIOtsr&theme=synthwave&show_icon=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=GREGORIOtsr&theme=synthwave&show_icon=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-![Codewars](https://github.r2v.ch/codewars?user=GREGORIOtsr&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=GREGORIOtsr&theme=nightowl&name=true)
 
 <div/>
